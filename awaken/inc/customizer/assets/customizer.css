@@ -35,6 +35,11 @@
 	min-width: 98%;
 }
 
+.control-section .accordion-section-title {
+	display: flex;
+	align-items: center;
+}
+
 .control-section h3.accordion-section-title:before {
 	right: 0;
 	content: '\f105';
@@ -49,7 +54,7 @@
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	text-decoration: none!important;
-	margin: 2px 17px 0 15px;
+	margin: 0 5px 0 10px;
 	float: left;
 	width: 23px;
 	color: #232323;

@@ -2,9 +2,9 @@
 
 Contributors: Pubudu Malalasekara
 Requires at least: 4.7
-Tested up to: 6.5
+Tested up to: 6.9
 Requires PHP: 5.2
-Stable tag: 2.3.0
+Stable tag: 2.3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -54,6 +54,9 @@ And there are 3 posts widgets.
 Drag and drop these widgets to above two widget areas and arrange them as you like.
 
 == Changelog ==
+
+= 2.3.1 =
+* Removed deprecated IE html5shiv and respond.js scripts.
 
 = 2.3.0 =
 * Changed slider js library to swiper from flexslider jquery library.
